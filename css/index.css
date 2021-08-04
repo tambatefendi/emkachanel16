@@ -1,0 +1,31 @@
+
+.navbar{
+	/*position: fixed;*/
+}
+
+
+
+.jumbotron{
+	padding-top: 7rem;
+	background-color: #e2edff;
+}
+
+#project{
+	background-color: #e2edff;
+}
+
+footer p {
+	
+	color: white;
+
+
+
+}
+
+footer p:hover{
+	color: red;
+}
+
+section{
+	padding-top: 5rem;
+}
